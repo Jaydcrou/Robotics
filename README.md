@@ -13,3 +13,8 @@ On our robot, we succeffuly created the mechanum drive and attached the battery 
 ![Chassis build for](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20230927_185953456.MP.jpg?raw=true)
 ![Chassis build clive](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20230927_190005201.MP.jpg?raw=true)
 The next addition to the robot will be the bottle opener and counterweights.
+
+![Chassis build tree](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20230927_185944974.MP.jpg?raw=true)
+![Chassis build for](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20230927_185953456.MP.jpg?raw=true)
+![Chassis build clive](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20230927_190005201.MP.jpg?raw=true)
+We made our robot with 1 claw to prevent it from being to top heavy  
